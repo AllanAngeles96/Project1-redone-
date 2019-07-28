@@ -1,0 +1,49 @@
+.jumbotron {
+    background-color: #019b3c;
+    color: #333333;
+    margin: 3%;  
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Geostar', cursive;
+}
+
+h3 {
+    font-family: 'Geostar', cursive;
+}
+body {
+      background-color:black;
+      color:black;
+      font-family: 'Geostar', cursive;
+}
+
+.btn.btn-default {
+    color: #333333;
+    background-color: #019b3c;
+    background-image: linear-gradient(to bottom, #019b3c, #019b3c);
+    border-color: #019b3c #019b3c #019b3c;
+    font-family: 'Geostar', cursive;
+}
+
+.btn.btn-default:hover {
+    color: #333333;
+    background-color: rgb(224, 224, 224);
+    background-image: linear-gradient(to bottom, #019b3c, #019b3c);
+    border-color: #019b3c #019b3c #019b3c;
+
+}
+
+.container {
+    font-family: 'Geostar', cursive;
+    font-size: 24px;
+}
+#yoda-says, #recipe-list {
+font-family: 'Times New Roman', Times, serif;
+}
+#quotes.form-control {
+    font-size: 24px;
+    
+}
+
